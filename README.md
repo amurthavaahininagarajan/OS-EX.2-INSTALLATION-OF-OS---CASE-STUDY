@@ -23,7 +23,8 @@
 ![image](https://github.com/amurthavaahininagarajan/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679102/d8e9d5b0-6a26-4e36-9792-cdbba1257564)
 8.Once everything is in place, it’s time to boot that ISO and install Linux as a virtual operating system.
 
-![Uploading image.png…]()
+![image](https://github.com/amurthavaahininagarajan/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679102/77832d77-cf29-4d21-87de-154bcbf2afbb)
+
 
 
 # RESULT:
